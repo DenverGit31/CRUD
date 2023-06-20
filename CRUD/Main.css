@@ -1,0 +1,29 @@
+.mid{
+    margin: auto;
+
+    width: 30%;
+}
+.forms{
+
+    width: 65%;
+}
+.box1{
+    display: flex;
+    gap: 29px;
+    align-items: center;
+}
+.box2{
+    display: flex;
+    gap: 32px;
+    align-items: center;
+}
+.box3{
+    display: flex;
+    gap: 13px;
+    align-items: center;
+}
+.btn{
+    display: flex;
+    gap: 11px;
+    align-items: center;   
+}
